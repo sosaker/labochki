@@ -1,0 +1,36 @@
+C:\Users\kukli\Desktop\CS projects\Backend\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.csproj.AssemblyReference.cache
+C:\Users\kukli\Desktop\CS projects\Backend\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kukli\Desktop\CS projects\Backend\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.AssemblyInfoInputs.cache
+C:\Users\kukli\Desktop\CS projects\Backend\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.AssemblyInfo.cs
+C:\Users\kukli\Desktop\CS projects\Backend\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.csproj.CoreCompileInputs.cache
+C:\Users\kukli\Desktop\CS projects\Backend\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.sourcelink.json
+C:\Users\kukli\Desktop\CS projects\Backend\BookStore\BookStore.Application\bin\Debug\net8.0\BookStore.Application.deps.json
+C:\Users\kukli\Desktop\CS projects\Backend\BookStore\BookStore.Application\bin\Debug\net8.0\BookStore.Application.dll
+C:\Users\kukli\Desktop\CS projects\Backend\BookStore\BookStore.Application\bin\Debug\net8.0\BookStore.Application.pdb
+C:\Users\kukli\Desktop\CS projects\Backend\BookStore\BookStore.Application\bin\Debug\net8.0\BookStore.Core.dll
+C:\Users\kukli\Desktop\CS projects\Backend\BookStore\BookStore.Application\bin\Debug\net8.0\BookStore.DataAccess.dll
+C:\Users\kukli\Desktop\CS projects\Backend\BookStore\BookStore.Application\bin\Debug\net8.0\BookStore.Core.pdb
+C:\Users\kukli\Desktop\CS projects\Backend\BookStore\BookStore.Application\bin\Debug\net8.0\BookStore.DataAccess.pdb
+C:\Users\kukli\Desktop\CS projects\Backend\BookStore\BookStore.Application\obj\Debug\net8.0\BookStor.D70AE061.Up2Date
+C:\Users\kukli\Desktop\CS projects\Backend\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.dll
+C:\Users\kukli\Desktop\CS projects\Backend\BookStore\BookStore.Application\obj\Debug\net8.0\refint\BookStore.Application.dll
+C:\Users\kukli\Desktop\CS projects\Backend\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.pdb
+C:\Users\kukli\Desktop\CS projects\Backend\BookStore\BookStore.Application\obj\Debug\net8.0\ref\BookStore.Application.dll
+C:\Users\kukli\Desktop\front-backend_6sem\lab-11\BookStore\BookStore.Application\bin\Debug\net8.0\BookStore.Application.deps.json
+C:\Users\kukli\Desktop\front-backend_6sem\lab-11\BookStore\BookStore.Application\bin\Debug\net8.0\BookStore.Application.dll
+C:\Users\kukli\Desktop\front-backend_6sem\lab-11\BookStore\BookStore.Application\bin\Debug\net8.0\BookStore.Application.pdb
+C:\Users\kukli\Desktop\front-backend_6sem\lab-11\BookStore\BookStore.Application\bin\Debug\net8.0\BookStore.Core.dll
+C:\Users\kukli\Desktop\front-backend_6sem\lab-11\BookStore\BookStore.Application\bin\Debug\net8.0\BookStore.DataAccess.dll
+C:\Users\kukli\Desktop\front-backend_6sem\lab-11\BookStore\BookStore.Application\bin\Debug\net8.0\BookStore.Core.pdb
+C:\Users\kukli\Desktop\front-backend_6sem\lab-11\BookStore\BookStore.Application\bin\Debug\net8.0\BookStore.DataAccess.pdb
+C:\Users\kukli\Desktop\front-backend_6sem\lab-11\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.csproj.AssemblyReference.cache
+C:\Users\kukli\Desktop\front-backend_6sem\lab-11\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kukli\Desktop\front-backend_6sem\lab-11\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.AssemblyInfoInputs.cache
+C:\Users\kukli\Desktop\front-backend_6sem\lab-11\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.AssemblyInfo.cs
+C:\Users\kukli\Desktop\front-backend_6sem\lab-11\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.csproj.CoreCompileInputs.cache
+C:\Users\kukli\Desktop\front-backend_6sem\lab-11\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.sourcelink.json
+C:\Users\kukli\Desktop\front-backend_6sem\lab-11\BookStore\BookStore.Application\obj\Debug\net8.0\BookStor.D70AE061.Up2Date
+C:\Users\kukli\Desktop\front-backend_6sem\lab-11\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.dll
+C:\Users\kukli\Desktop\front-backend_6sem\lab-11\BookStore\BookStore.Application\obj\Debug\net8.0\refint\BookStore.Application.dll
+C:\Users\kukli\Desktop\front-backend_6sem\lab-11\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.pdb
+C:\Users\kukli\Desktop\front-backend_6sem\lab-11\BookStore\BookStore.Application\obj\Debug\net8.0\ref\BookStore.Application.dll
